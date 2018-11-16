@@ -1,6 +1,11 @@
 body {
+    max-width: 1024px;
     background-color: #484848;
     color: white;
+    margin: auto;
+}
+
+main {
     border: 5px solid grey;
     margin: 50px;
     padding: 50px;
