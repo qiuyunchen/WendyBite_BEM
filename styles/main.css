@@ -1,0 +1,95 @@
+body {
+    background-color: #484848;
+    color: white;
+    border: 5px solid grey;
+    margin: 50px;
+    padding: 50px;
+}
+
+h1 {
+    font-weight: normal;
+    font-family: Georgia;
+    font-size: 28pt;
+    font-style: italic;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+    font-size: 13pt;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+.separator {
+    color: grey;
+    font-weight: normal;
+}
+
+a { 
+    color: #3ECE9A; 
+}
+
+.border {
+    border-top: 1px solid grey;
+    border-bottom: 1.5px solid grey;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    overflow: auto;
+}
+
+h2 {
+    font-size: 19pt;
+    font-family: Helvetica;
+}
+
+img {
+    float: right;
+    border: 1px solid grey;
+    padding: 5px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+
+p {
+    font-size: 14pt;
+    line-height: 1.5;
+}
+
+section h2 {
+    color: lightgrey;
+    font-family: Helvetica;
+    text-transform: uppercase;
+    font-size: 13pt;
+    letter-spacing: 1.5pt;
+    line-height: 2;
+}
+
+li {
+    color: lightgrey;
+    font-size: 14pt;
+    line-height: 1.5;
+    list-style-type: square;
+    
+}
+
+.unbullet {
+    list-style-type: none;
+}
+
+.bold {
+    font-weight: bold;
+    color: white;
+    font-family: Arial;
+}
+
+.whiteSmoke {
+    color: #F5F5F5;
+    font-family: Arial;
+}
+.year {
+    font-size: 11pt;
+    font-family: Arial;
+}
