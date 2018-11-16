@@ -36,7 +36,7 @@ a {
 }
 
 .border {
-    border-top: 1px solid grey;
+    border-top: 1.5px solid grey;
     border-bottom: 1.5px solid grey;
     margin-top: 30px;
     margin-bottom: 30px;
